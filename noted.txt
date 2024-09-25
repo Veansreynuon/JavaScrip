@@ -1,0 +1,36 @@
+We use JavaScript to modify web page.
+Syntax: - rule that we have to follow when using a programming language.
+
+=> first step: we learn about
+				1. JavaScript is giving instructions to a computer 
+				2. Write JavaScript code
+				3. Run our code using the Console
+				4. Syntax
+Lesson 2: Number and Math
+=> Second step: we learn about 
+				1. Number and Math
+				2. Order of Operators, and Brackets (...)
+				3. Calculated the numbers in final project
+				4. Calculations using floats can be inccurate 
+
+=> Interpolation = insert value directly into a string.
+=> What should we use to create a string?
+   1. Use '...' by default
+   2. If we need interpolation, multi-line strings use `...`
+ => third step : 
+		1. String = text
+		2. Use strings and numbers together
+		3. three ways to create strings: '...'  "..."  `...`(template string)
+		4. Escape characters: \` \n
+		5. Interpolation. multi-line strings
+
+=> Lesson 4: HTML CSS Review. console.log
+	1. HTML = create the content
+	2. CSS = change the appearance
+	3. JavaScript = makes it interactive
+Setup
+   Install a code editor(help us write and organize code)
+- HTML Hyper = Text Markup Language and also giving the construction to a computer.
+
+	Web page = a single page (on a website) like the home page or cart page and together call a website.
+
