@@ -34,3 +34,14 @@ Setup
 
 	Web page = a single page (on a website) like the home page or cart page and together call a website.
 
+	=> What is a variable ?
+	variable = a container -> we can save a value and then use it later.
+
+	Note: variable name restriction:
+	1. Can't use special words Example : lat
+	2. Can't start with a number
+	3. Can't use specail characters except:$_
+
+	Don't use let when reassign the value.
+
+
