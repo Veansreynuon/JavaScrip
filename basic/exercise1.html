@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=script, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .button-style{
+            width: 18%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 10px;
+            margin: auto;
+            flex-wrap: wrap;
+            background-color: rgb(135, 222, 193);
+        }
+        .button-style button{
+            margin: 2%;
+        }
+    </style>
+</head>
+<body>
+    <div class="button-style">
+        <button onclick="functionClick1()">1</button>
+        <button onclick="console.log( calculate +=2)">2</button>
+        <button onclick="console.log( calculate +=3)">3</button>
+        <button onclick="console.log( calculate +=4)">4</button>
+        <button>=</button>
+    </div>
+
+    <script>
+        let calculate = 0;
+        function functionClick1(){
+            console.log(calculate +=1)
+        }
+    </script>
+</body>
+</html>

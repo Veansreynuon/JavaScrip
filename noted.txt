@@ -45,3 +45,20 @@ Setup
 	Don't use let when reassign the value.
 
 
+===============================================
+|(*_*)	Variable Re-assignment Shortcuts (*_*)|
+-----------------------------------------------
+	+= 2	variable = variable +			
+	-= 2	variable = variable -2
+	*= 2	variable = variable *2
+	/= 2	variable = variable /2
+	++		variable = variable +2
+	--		variable = variable -2
+===============================================
+
+
+Naming Convention that use in programing
+- camelCase: capitalize every word axcept the first word. Example(cartQuantity)
+- PascalCase: Example(CartQuantity)
+-Kebab-case: Example(cart-quantity) -> does't work in JavaScript. use in HTML and CSS and file name.
+-snake-case: Example(cart_quantity)
