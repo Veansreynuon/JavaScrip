@@ -62,3 +62,9 @@ Naming Convention that use in programing
 - PascalCase: Example(CartQuantity)
 -Kebab-case: Example(cart-quantity) -> does't work in JavaScript. use in HTML and CSS and file name.
 -snake-case: Example(cart_quantity)
+
+
+main idea of JavaScript 
+1. Save the data
+2. Generate it interactive
+3. Make it interactive
